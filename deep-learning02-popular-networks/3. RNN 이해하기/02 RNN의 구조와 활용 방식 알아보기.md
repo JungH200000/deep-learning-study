@@ -61,7 +61,7 @@ RNN은 시점 $t$마다
 
 입력 문장이 들어오면, 그 문맥을 따라 **번역된 문장**이 이어서 생성됩니다. 즉, **여러 입력 → 여러 출력** 구조이며, 기계 번역이 대표 사례입니다.
 
-### 3-4. Many to Many (시점별 라벨링: NER)
+### 3-4. Many to Many (시점별 라벨링: NER(Named Entity Recognition))
 
 <img src="../images/many-to-many02.png" width="420" />
 
